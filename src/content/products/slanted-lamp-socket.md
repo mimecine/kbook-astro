@@ -1,0 +1,80 @@
+---
+id: 467283855
+title: Slanted Lamp Socket
+vendor: "- N/A"
+product_type: Romania
+created_at: 2015-03-23T13:43:02-04:00
+handle: slanted-lamp-socket
+updated_at: 2023-08-02T14:37:49-04:00
+published_at: 2015-03-23T13:43:00-04:00
+template_suffix: ""
+published_scope: web
+tags: ""
+status: active
+admin_graphql_api_id: gid://shopify/Product/467283855
+variants:
+  - id: 1239505659
+    product_id: 467283855
+    title: Default Title
+    price: "24.50"
+    sku: X44
+    position: 1
+    inventory_policy: deny
+    compare_at_price: "35.00"
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Default Title
+    option2: null
+    option3: null
+    created_at: 2015-03-23T13:43:02-04:00
+    updated_at: 2023-10-27T19:43:24-04:00
+    taxable: true
+    barcode: "2218"
+    grams: 454
+    image_id: null
+    weight: 1
+    weight_unit: lb
+    inventory_item_id: 4104632838
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/1239505659
+options:
+  - id: 551586307
+    product_id: 467283855
+    name: Title
+    position: 1
+    values:
+      - Default Title
+images:
+  - id: 1245421455
+    alt: null
+    position: 1
+    product_id: 467283855
+    created_at: 2015-03-23T13:43:02-04:00
+    updated_at: 2015-03-23T13:43:02-04:00
+    admin_graphql_api_id: gid://shopify/ProductImage/1245421455
+    width: 2000
+    height: 2000
+    src: https://cdn.shopify.com/s/files/1/0589/2901/products/slanted_lamp_socket.jpeg?v=1427132582
+    variant_ids: []
+image:
+  id: 1245421455
+  alt: null
+  position: 1
+  product_id: 467283855
+  created_at: 2015-03-23T13:43:02-04:00
+  updated_at: 2015-03-23T13:43:02-04:00
+  admin_graphql_api_id: gid://shopify/ProductImage/1245421455
+  width: 2000
+  height: 2000
+  src: https://cdn.shopify.com/s/files/1/0589/2901/products/slanted_lamp_socket.jpeg?v=1427132582
+  variant_ids: []
+
+---
+
+3.5" long  
+Stoneware & Electric Socket  
+ROMANIA
+
+A slanted lamp socket, but why? And why not - or rather, and why? After all, the angle makes it easier to remove the bulb and put it back into the socket. Conceived to be mounted on the wall with a glass globe covering the bulb, but certainly for simplicity's sake it can be used without the cover. The most important information I can provide you is to use it and every other socket or lamp in the house with an energy-saving bulb. Yes, I also believe those bulbs don't cast the nicest light but it only takes time to adjust, and if we were all bothered a little, a lot of energy saving would happen. There is no denying that's a good thing.

@@ -1,0 +1,79 @@
+---
+id: 326843435
+title: Cosmic Tshirt Scatter
+vendor: Cosmic Cotton
+product_type: "America #4"
+created_at: 2014-07-22T20:00:07-04:00
+handle: cosmic-tshirt-scatter
+updated_at: 2023-08-02T14:36:25-04:00
+published_at: 2011-11-18T09:26:00-05:00
+template_suffix: ""
+published_scope: web
+tags: personal
+status: active
+admin_graphql_api_id: gid://shopify/Product/326843435
+variants:
+  - id: 753311335
+    product_id: 326843435
+    title: Adult Small
+    price: "24.00"
+    sku: ""
+    position: 1
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Adult Small
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:00:07-04:00
+    updated_at: 2023-10-27T19:42:37-04:00
+    taxable: true
+    barcode: "1237"
+    grams: 113
+    image_id: null
+    weight: 0.25
+    weight_unit: lb
+    inventory_item_id: 3517002566
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753311335
+options:
+  - id: 386506955
+    product_id: 326843435
+    name: Size
+    position: 1
+    values:
+      - Adult Small
+images:
+  - id: 763748635
+    alt: null
+    position: 1
+    product_id: 326843435
+    created_at: 2014-07-22T20:00:09-04:00
+    updated_at: 2014-07-22T20:00:09-04:00
+    admin_graphql_api_id: gid://shopify/ProductImage/763748635
+    width: 1024
+    height: 1024
+    src: https://cdn.shopify.com/s/files/1/0589/2901/products/IMG_7553.jpeg?v=1406073609
+    variant_ids: []
+image:
+  id: 763748635
+  alt: null
+  position: 1
+  product_id: 326843435
+  created_at: 2014-07-22T20:00:09-04:00
+  updated_at: 2014-07-22T20:00:09-04:00
+  admin_graphql_api_id: gid://shopify/ProductImage/763748635
+  width: 1024
+  height: 1024
+  src: https://cdn.shopify.com/s/files/1/0589/2901/products/IMG_7553.jpeg?v=1406073609
+  variant_ids: []
+
+---
+
+Cotton  
+USA
+
+I made it to one Dead show and I consider myself very lucky. I was quite young and I remember the batik wrap skirt I wore, but I can't remember the shirt. I know I had one on and not everyone did. I remember all the funky things people were selling and I remember I smoked weed but I took no hallucinogens, honestly. I don't recall if my parents knew where I was going and I think we were at the Meadowlands Arena. I remember walking up to the Arena and thinking, "Oh, those are Deadheads, cool," and wondering where they showered. The story continues on the next t-shirt.

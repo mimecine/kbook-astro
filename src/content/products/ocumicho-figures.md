@@ -1,0 +1,80 @@
+---
+id: 333576647
+title: Ocumicho Figures
+vendor: None
+product_type: Mexico
+created_at: 2014-08-04T23:59:23-04:00
+handle: ocumicho-figures
+updated_at: 2023-08-02T14:37:00-04:00
+published_at: 2011-06-02T14:47:00-04:00
+template_suffix: ""
+published_scope: web
+tags: ""
+status: active
+admin_graphql_api_id: gid://shopify/Product/333576647
+variants:
+  - id: 772523871
+    product_id: 333576647
+    title: Default Title
+    price: "0.00"
+    sku: K494
+    position: 1
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Default Title
+    option2: null
+    option3: null
+    created_at: 2014-08-04T23:59:23-04:00
+    updated_at: 2023-10-27T19:42:58-04:00
+    taxable: true
+    barcode: "1663"
+    grams: 0
+    image_id: null
+    weight: 0
+    weight_unit: lb
+    inventory_item_id: 1233804742
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/772523871
+options:
+  - id: 394426347
+    product_id: 333576647
+    name: Default
+    position: 1
+    values:
+      - Default Title
+images:
+  - id: 776914155
+    alt: null
+    position: 1
+    product_id: 333576647
+    created_at: 2014-08-04T23:59:24-04:00
+    updated_at: 2014-08-04T23:59:24-04:00
+    admin_graphql_api_id: gid://shopify/ProductImage/776914155
+    width: 1024
+    height: 1024
+    src: https://cdn.shopify.com/s/files/1/0589/2901/products/skmex0095.tif.jpeg?v=1407211164
+    variant_ids: []
+image:
+  id: 776914155
+  alt: null
+  position: 1
+  product_id: 333576647
+  created_at: 2014-08-04T23:59:24-04:00
+  updated_at: 2014-08-04T23:59:24-04:00
+  admin_graphql_api_id: gid://shopify/ProductImage/776914155
+  width: 1024
+  height: 1024
+  src: https://cdn.shopify.com/s/files/1/0589/2901/products/skmex0095.tif.jpeg?v=1407211164
+  variant_ids: []
+
+---
+
+Assorted Sizes  
+Clay & Paint  
+MEXICO
+
+A really interesting fact about many things from Mexico is that decorative objects often have an alternative, more practical purpose as well. This is the case with these girls, often a statuette and a whistle all in one. Made of clay, hand-molded and hand-painted, these turned up on our travels to the village of Ocumicho in Michoacán. In my research before the trip I came across the story of Ocumicho and the little devil figures the village is famous for. Each figure depicts bizarre devil or hell characters in strange scenarios. Ocumicho is near Pátzcuaro, the center of Mexico’s Day of the Dead festivities. These statues are produced throughout the year to be sold and displayed during the festival. When we arrived in the town there was barely anyone around; given the reputation of the craft I had thought there would at least be some sign of small-scale production. We asked a group of children if they knew of anyone making the figures and they brought us to an older woman’s house, Maria Felicitas Elias Vargas. Her studio was her home and her work was fascinating, not at all overly detailed or polished. I feel it comes from the heart. After visiting her we were brought to a family of 12 who were all producing figures, from tiny to larger than life-size: the Family Pascal Gonzales. The best artist in the family was their 12-year-old daughter who had the wildest imagination; we were told she has won prizes. I am really impressed with her unknown characters. The story of our trip is funny: we asked the owner of our hotel approximately how long it would take to drive to the village, he told us 20 minutes. Two and a half hours later we arrived, laughing the whole way; it was too much. Finally returning to town at 11 o'clock that night, we made a meal at the 24-hour Quick shop (like 7-11) of ramen noodles and an avocado. One of us bought sausage to add into the ramen to make it deluxe. It was an incredible day. Fewer and fewer families are producing the figures, but we were glad to find the craft still alive and well in the village.

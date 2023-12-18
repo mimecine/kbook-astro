@@ -1,0 +1,431 @@
+---
+id: 326849039
+title: Jason Pouch
+vendor: Jason Rosenberg
+product_type: Mini-Exhibitions
+created_at: 2014-07-22T20:09:26-04:00
+handle: jason-pouch
+updated_at: 2023-08-02T14:36:45-04:00
+published_at: 2015-04-28T22:45:00-04:00
+template_suffix: ""
+published_scope: web
+tags: gifts, personal
+status: active
+admin_graphql_api_id: gid://shopify/Product/326849039
+variants:
+  - id: 753320575
+    product_id: 326849039
+    title: Mood
+    price: "25.00"
+    sku: M8
+    position: 1
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Mood
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: "1477"
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517020294
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320575
+  - id: 753320579
+    product_id: 326849039
+    title: White Stripe on Black
+    price: "25.00"
+    sku: ""
+    position: 2
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: White Stripe on Black
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517020358
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320579
+  - id: 753320583
+    product_id: 326849039
+    title: Talbots
+    price: "25.00"
+    sku: ""
+    position: 3
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Talbots
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517020486
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320583
+  - id: 753320587
+    product_id: 326849039
+    title: Friedman
+    price: "25.00"
+    sku: ""
+    position: 4
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Friedman
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517020550
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320587
+  - id: 753320591
+    product_id: 326849039
+    title: Dressman
+    price: "25.00"
+    sku: ""
+    position: 5
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Dressman
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517020614
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320591
+  - id: 753320599
+    product_id: 326849039
+    title: Red Bubble on White
+    price: "25.00"
+    sku: ""
+    position: 6
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Red Bubble on White
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517020742
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320599
+  - id: 753320603
+    product_id: 326849039
+    title: Limited
+    price: "25.00"
+    sku: ""
+    position: 7
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Limited
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517020806
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320603
+  - id: 753320607
+    product_id: 326849039
+    title: Bazaar
+    price: "25.00"
+    sku: ""
+    position: 8
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Bazaar
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517020934
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320607
+  - id: 753320611
+    product_id: 326849039
+    title: Flamingo
+    price: "25.00"
+    sku: ""
+    position: 9
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Flamingo
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517020998
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320611
+  - id: 753320615
+    product_id: 326849039
+    title: Manfield
+    price: "25.00"
+    sku: ""
+    position: 10
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Manfield
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517021062
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320615
+  - id: 753320619
+    product_id: 326849039
+    title: Paris
+    price: "25.00"
+    sku: ""
+    position: 11
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Paris
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517021190
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320619
+  - id: 753320623
+    product_id: 326849039
+    title: Louis
+    price: "25.00"
+    sku: ""
+    position: 12
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Louis
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517021254
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320623
+  - id: 753320627
+    product_id: 326849039
+    title: Funkie
+    price: "25.00"
+    sku: ""
+    position: 13
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Funkie
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:26-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517021382
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320627
+  - id: 753320631
+    product_id: 326849039
+    title: Orange Aid
+    price: "25.00"
+    sku: ""
+    position: 14
+    inventory_policy: deny
+    compare_at_price: null
+    fulfillment_service: manual
+    inventory_management: shopify
+    option1: Orange Aid
+    option2: null
+    option3: null
+    created_at: 2014-07-22T20:09:27-04:00
+    updated_at: 2023-10-27T19:42:49-04:00
+    taxable: true
+    barcode: null
+    grams: 91
+    image_id: null
+    weight: 0.2
+    weight_unit: lb
+    inventory_item_id: 3517021446
+    inventory_quantity: 0
+    old_inventory_quantity: 0
+    requires_shipping: true
+    admin_graphql_api_id: gid://shopify/ProductVariant/753320631
+options:
+  - id: 386512659
+    product_id: 326849039
+    name: Title
+    position: 1
+    values:
+      - Mood
+      - White Stripe on Black
+      - Talbots
+      - Friedman
+      - Dressman
+      - Red Bubble on White
+      - Limited
+      - Bazaar
+      - Flamingo
+      - Manfield
+      - Paris
+      - Louis
+      - Funkie
+      - Orange Aid
+images:
+  - id: 763756223
+    alt: null
+    position: 1
+    product_id: 326849039
+    created_at: 2014-07-22T20:09:29-04:00
+    updated_at: 2014-07-22T20:09:29-04:00
+    admin_graphql_api_id: gid://shopify/ProductImage/763756223
+    width: 1530
+    height: 2048
+    src: https://cdn.shopify.com/s/files/1/0589/2901/products/3e1c8966a443dc1f9c9207a09bf40fbe.jpeg?v=1406074169
+    variant_ids: []
+image:
+  id: 763756223
+  alt: null
+  position: 1
+  product_id: 326849039
+  created_at: 2014-07-22T20:09:29-04:00
+  updated_at: 2014-07-22T20:09:29-04:00
+  admin_graphql_api_id: gid://shopify/ProductImage/763756223
+  width: 1530
+  height: 2048
+  src: https://cdn.shopify.com/s/files/1/0589/2901/products/3e1c8966a443dc1f9c9207a09bf40fbe.jpeg?v=1406074169
+  variant_ids: []
+
+---
+
+Sizes vary  
+Plastic Bag, Zipper, Sweat, Tears  
+New York, USA
+
+For Mini-Exhibition # 2 artist Jason Rosenberg sat at KIOSK and made beautiful pouches and other items out of plastic bags from his collection along with bags others provided. He continues to make pouches from his never ending, growing collection of beautiful plastic bags. Nothing says "I love you" more than a recycled bag pouch.X
