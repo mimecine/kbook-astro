@@ -18,7 +18,7 @@ const shopify = shopifyApi({
   restResources,
 });
 
-const session = shopify.session.customAppSession("kioskarchive.myshopify.com");
+const session = shopify.session.customAppSession(process.env.SHP_HOSTNAME);
 
 const getAll = async (method, session) => {
   let pageInfo = null;
