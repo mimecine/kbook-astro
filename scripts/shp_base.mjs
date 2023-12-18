@@ -9,12 +9,12 @@ async function delay(time) {
 }
 
 const shopify = shopifyApi({
-  apiSecretKey: "73427d28ca1bd53e423b972c258bf59b", // Note: this is the API Secret Key, NOT the API access token
+  apiSecretKey: process.env.SHP_API_SECRET_KEY, // Note: this is the API Secret Key, NOT the API access token
   apiVersion: ApiVersion.April23,
   isCustomStoreApp: true, // this MUST be set to true (default is false)
-  adminApiAccessToken: "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", // Note: this is the API access token, NOT the API Secret Key
+  adminApiAccessToken: process.env.SHP_ADMIN_API_ACCESS_TOKEN, // Note: this is the API access token, NOT the API Secret Key
   isEmbeddedApp: false,
-  hostName: "kioskarchive.myshopify.com",
+  hostName: process.env.SHP_HOSTNAME,
   restResources,
 });
 
